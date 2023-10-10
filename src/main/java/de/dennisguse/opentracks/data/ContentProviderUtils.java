@@ -65,7 +65,7 @@ import de.dennisguse.opentracks.util.FileUtils;
  */
 public class ContentProviderUtils {
 
-    private static final String TAG = ContentProviderUtils.class.getSimpleName();
+
 
     // The authority (the first part of the URI) for the app's content provider.
     @VisibleForTesting
